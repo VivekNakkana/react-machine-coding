@@ -4,3 +4,6 @@ A collection of commonly asked React machine coding challenges with clean, inter
 
 ## Challenges
 - Accordion
+- Todo-app
+- weather-app
+- Password generated
